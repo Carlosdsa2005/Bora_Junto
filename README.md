@@ -7,8 +7,9 @@
 Centralizar viagens, membros, convites, tarefas, documentos/comprovantes e fotos em uma aplicação web privada para o grupo. Chega de usar planilhas perdidas e grupos de mensagens caóticos; com o BoraJunto, cada detalhe da sua viagem fica organizado e acessível a todos os membros.
 
 ## 🎥 Integrantes
+* Carlos Andre Sanches
 * Carlos Daniel Gomes de Sá
-
+* Felipe Emmanuel
 ---
 
 ## 🛠️ Tecnologias Utilizadas
